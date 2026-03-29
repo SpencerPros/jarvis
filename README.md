@@ -1,6 +1,6 @@
 # Jarvis — AI Voice Assistant
 
-A locally-run personal AI voice assistant inspired by Jarvis from Iron Man. Speak to it, and it speaks back. Built with Python using a fully local AI model — no subscriptions, no cloud AI, no data leaving your machine.
+A locally-run personal AI voice assistant inspired by Jarvis from Iron Man. Speak to it, and it speaks back. Built with Python using a fully local AI model, no subscriptions, no cloud AI, no data leaving your machine.
 
 ---
 
